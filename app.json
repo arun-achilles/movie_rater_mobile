@@ -19,8 +19,12 @@
     "ios": {
       "supportsTablet": true
     },
+    "android": {
+      "package": "com.arun.moviebase"
+    },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
